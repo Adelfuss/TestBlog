@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authorization"
+AuthUserFile D:\Openserver\Unpacked\OSPanel\domains\BlogTest\admin\.htpasswd
+Require valid-user
